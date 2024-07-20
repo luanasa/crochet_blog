@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg_blue-custom {
+  background-image: url('./bg_blue.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.bg_pink-custom {
+  background-image: url('./bg_pink.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
