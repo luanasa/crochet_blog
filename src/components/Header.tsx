@@ -28,7 +28,7 @@ function Header() {
         <div>
           <h1 className="text-7xl leading-16 ">Bem vindos ao <br></br> <span className="text-pink-500">meu</span> blog ♡</h1>
           <button className="rounded-2xl bg-slate-50 px-3.5 py-2.5 text-lg font-semibold text-black shadow-sm hover:bg-slate-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 mt-10 w-36 h-12">
-            produtos
+            receitas
           </button>
         </div>
 
